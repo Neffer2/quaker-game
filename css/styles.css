@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'VAG';
+    src: url('../assets/fonts/VAG\ Rounded\ Bold.ttf') format('truetype');
+}
+
+* {
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'VAG', sans-serif;   
+}
+
+canvas {
+    height: 100% !important;
+    width: 100% !important;
+}
